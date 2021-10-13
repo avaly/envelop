@@ -1,5 +1,11 @@
 # @envelop/types
 
+## 1.2.0
+
+### Minor Changes
+
+- d65e35d: add enableIf utility to enable plugins conditionally
+
 ## 1.1.0
 
 ### Minor Changes

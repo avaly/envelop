@@ -1,5 +1,17 @@
 # @envelop/testing
 
+## 2.0.0
+
+### Minor Changes
+
+- d65e35d: add enableIf utility to enable plugins conditionally
+
+### Patch Changes
+
+- Updated dependencies [d65e35d]
+  - @envelop/core@1.3.0
+  - @envelop/types@1.2.0
+
 ## 1.1.1
 
 ### Patch Changes
